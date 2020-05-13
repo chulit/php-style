@@ -8,9 +8,6 @@ return [
   # allows you to specify if you’d like short or long array syntax
   'array_syntax' => ['syntax' => 'short'],
 
-  # There should be no blank lines before a namespace declaration.
-  'no_blank_lines_before_namespace' => true,
-
   # Each element of an array must be indented exactly once.
   'array_indentation' => true,
 
